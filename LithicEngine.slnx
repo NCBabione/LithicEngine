@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="LithicEngine.vcxproj" Id="72b7465a-ab0c-42a6-aaf4-113ad2a3a942" />
+</Solution>
